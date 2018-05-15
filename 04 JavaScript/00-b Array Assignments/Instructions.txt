@@ -1,0 +1,42 @@
+Create JS files having following functions:
+use seperate file for seperate function
+-------------------------------------------------------------------------------------------
+
+1. Write Function which will create table view from given array of object
+	a. input - Array or object - eg. [{ name : "Vilas Shetkar", email : "vilasshetkar@gmail.com", mobile : 9049508514 }, { name : "abc", email : "abc@gmail.com", mobile : 9000000078 }]
+	b. output - Table should display having headings - Name, Email, Mobile No. along with rows of data
+
+2. Write Function which will get input from form and appent to array of object
+	a. Input - use input fields - name, email, mobile etc
+	b. When submit form get input data and store it into object - { name : "from input", email : "from input", mobile : "from input" }
+	c. Push this object to given array or existing array (Use variable for existing array)
+	d. Display newaly modified array in table using existing table function
+
+3. Create Function which will remove last element of given array 
+	a. input - Array of object
+	b. output - new Array of object after removed last element
+	
+4. Create Function which will remove any element of given array with index
+	a. input - 1. Array of object 2. Index no
+	b. output - new Array of object after removed element at given index 
+
+5. Create Function which will add new element to top of given array of object
+	a. Input - 1. Array, 2. Object/Element to add
+	b. use input fields - name, email, mobile etc
+	c. When submit form get input data and store it into object - { name : "from input", email : "from input", mobile : "from input" }
+	d. Push this object to given array or existing array (Use variable for existing array)
+	e. Display newaly modified array in table using existing table function
+	
+6. Create Function which will add new element to given array of object with index 
+	a. input - 1. Array, 2. index, 3. Object/Element to add
+	b. use input fields - name, email, mobile etc
+	c. When submit form get input data and store it into object - { name : "from input", email : "from input", mobile : "from input" }
+	d. Push this object to given array or existing array (Use variable for existing array)
+	e. Display newaly modified array in table using existing table function
+	
+7. Create Function which will parse CSV string
+	a. Input - CSV String (comma seperated values) - eg. Vilas Shetkar, vilasshetkar@gmail, 9049508514
+	b. Split given string by new line and comma
+	c. Create object for each line and use properties as per commas
+	d. Create array and push above object to it
+	e. Display newaly created array in table using existing table function (Step 1)
