@@ -1,0 +1,18 @@
+Create classes of Employee, Customer or Candidate
+-----------------------------------------------------------------------------------------
+
+1. AddEmployeeClass
+	a. properties - name, email, mobile, sex, etc
+	b. methods 
+		- getFullName
+		- getAddress
+		- getSummary
+		- saveData
+		
+2. ViewEmployeesClass
+	a. properties - EmployeeList
+	b. methods
+		- generateTable
+		- displayTable
+		- editRecord
+		- deleteRecord

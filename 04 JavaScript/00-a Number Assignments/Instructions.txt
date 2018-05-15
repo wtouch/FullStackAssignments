@@ -1,4 +1,5 @@
 Create JS file having following functions:
+-------------------------------------------------------------------------------------------------------------------------
 1. Write following functions for Basic calculations
 	a. Addition - which will take two params and return addition of two params
 	b. Substraction
@@ -15,3 +16,7 @@ Create JS file having following functions:
 	e. Vertical Sum of array -
 		Write function which will take two inputs 1. Array of Object 2. Field name to calculate
 		eg of array - [{name : "Mobile", price : 30000, qty : 20}, {name : "Laptop", price : 100000, qty : 2}, {name : "PC", price : 200000, qty : 20}]
+
+3. Write Function which will return random number with given digits
+	a. Input - digit (number)
+	b. Output - random number with given digit/s eg. if 2 digit is given random number should between 10-99
