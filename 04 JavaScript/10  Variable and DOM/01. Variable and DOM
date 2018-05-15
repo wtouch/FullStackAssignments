@@ -1,0 +1,12 @@
+#1 Collect information from the user and store in a variable for later user.
+	1. Create a basic/empty page in html. - <html><body></body></html>
+	2. Using a prompt box, prompt the user to supply his/her First Name and Last Name.
+	3. Save first & last name in variable.
+	4. Create DOM as follows
+		- create H1 element and add 'Welcome [user's first name]' text to it
+		- create P element and add elements follows (use 2 elements for first & last name)
+			- create SPAN element and add 'First Name: ' text to it
+			- create STRONG element and add user's first name from variable
+			- user input should be capital/upper case
+	5. Append created DOM into body
+		- ex. <body><h1>Welcome [user's first name]</h1><p><span>First Name: </span><strong>[user's first name]</strong></p><p><span>Last Name: </span><strong>[user's last name]</strong></p></body>

@@ -1,0 +1,38 @@
+Insert into Users
+	- Fields 
+		- firstName - String - Required
+		- lastName - String - Required
+		- email - String - Required
+		- mobile  - String - Required
+		- address - String - Required
+		- location - String
+		- city - String - Required
+		- state - String
+		- country - String - Required
+		- pincode - Number - Required
+		- department - String - Required
+		- joiningDate - Date - Required
+		- createdDate - Date - Required
+		- modifiedDate - Date - Required
+		- group - String
+		- Other fields if you want
+
+Insert into userGroup
+	- Fields
+		- groupName - String - Required
+		- createdDate - Date - Required
+		- modifiedDate - Date - Required
+		- Other fields if you want
+		
+	data must be in this collection
+		- groupName - admin, superadmin, employee, accountant
+	
+Insert into department
+	- Fields
+		- departmentName - String - Required
+		- createdDate - Date - Required
+		- modifiedDate - Date - Required
+		- Other fields if you want
+	
+	data must be in this collection
+		- departmentName - finance, training, development, qa, marketing

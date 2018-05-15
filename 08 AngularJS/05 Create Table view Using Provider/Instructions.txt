@@ -1,0 +1,9 @@
+- using Table View
+- Create Table with bootstrap
+- use DataService
+- call DataService.getMultiple method and get data from server
+- inside callback assign data to some propererty
+- using *ngFor show all data into table
+- Create edit and delete button/link
+- Delete record using DataService provider
+- Update view on delete of record

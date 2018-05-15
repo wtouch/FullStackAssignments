@@ -1,0 +1,11 @@
+- Create Angular Project
+	- user option while creating new app --style=scss
+	- Follow instrictions as defined here - https://github.com/angular/angular-cli/wiki/stories-include-bootstrap
+		- ng new my-app --style=scss
+		- npm install bootstrap-sass --save
+		- Create an empty file _variables.scss in src/.
+			- add this - $icon-font-path: '../node_modules/bootstrap-sass/assets/fonts/bootstrap/';
+		- In styles.scss add the following:
+			- @import 'variables';
+			- @import '../node_modules/bootstrap-sass/assets/stylesheets/_bootstrap';
+	- Create layout with bootstrap in app.componnet.html

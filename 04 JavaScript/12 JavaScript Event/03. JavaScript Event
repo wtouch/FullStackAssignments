@@ -1,0 +1,10 @@
+#3 This assignment is an introduction to JavaScript events and event handlers and the concepts necessary to build a basic rollover.
+
+	1. Create a basic page in html that displays 3 images.
+	2. When the user places a cursor over the image, use the onMouseOver event to replace the image with a different image.
+	3. When the user removes the cursor from the image, use the onMouseOut event to return it to its original state/image
+	4. 
+	
+Reference:
+1. http://www.webhammer.com/javascript/examples/rollovers/basic_rollover.html
+2. http://www.webhammer.com/javascript/exercises/intro/session3/exercise9.html

@@ -1,0 +1,17 @@
+Create JS file having following functions:
+1. Write following functions for Basic calculations
+	a. Addition - which will take two params and return addition of two params
+	b. Substraction
+	c. Multiplication
+	d. Division
+
+2. Write Advance Functions for Advance Calculations
+	a. Write Function which return addition of given array of number
+	b. Write Function which return parsed value - int, float (if value has decimal place it should return float number else it will return int)
+	c. Tax Calculator
+		Write function which will take 2 params (1. Input Amount, 2. Tax %) and return object having tax amount and sum of tax and amount
+	d. Interest Calculator
+		Write function which will take interest related input and return object having 1. Interest, 2. Sum of Interest and amount
+	e. Vertical Sum of array -
+		Write function which will take two inputs 1. Array of Object 2. Field name to calculate
+		eg of array - [{name : "Mobile", price : 30000, qty : 20}, {name : "Laptop", price : 100000, qty : 2}, {name : "PC", price : 200000, qty : 20}]

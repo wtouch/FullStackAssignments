@@ -1,0 +1,7 @@
+1. Write Function which make Capital First Letter - capitalize(string)
+2. Write Function which make Capital each word of sentence - capitalizeAll(string)
+3. Write Function which check if word is part of given string - isExist(string, searchValue)
+4. Find no of occurrence of a word/phrase from given string - getOccurrenceCount(string, searchValue)
+5. Calculate word density from given string - wordDensity(string, searchValue)
+	hint: occurrenceCount / totalWords * 100
+6. Get Extension of file name/given string of file name i.e.: "C:/abc.jpg", expected return value is "jpg" if no ext return null - getExt(fileName)

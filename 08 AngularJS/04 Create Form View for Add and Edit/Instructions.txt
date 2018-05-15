@@ -1,0 +1,6 @@
+- Create Registration form with fields which used in previous assignment
+- Create submit function and send data to server with DataService provider
+- Show success message after successful submit/insert of data
+- Reset form and hide after successful submit/insert
+
+- Same steps follow for Edit Record

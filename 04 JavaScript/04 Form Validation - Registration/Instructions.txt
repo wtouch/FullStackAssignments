@@ -1,0 +1,8 @@
+Validition on below fields
+1. Name - Should be alphabets only
+2. Mobile No - valid indian mobile number
+3. PAN - valid pan format
+4. DOB - date of birth should be 5 year old than current date
+6. Pincode - should be 6 digit
+7. Email - should valid email address
+8. Aadhar card - should valid 16 digits

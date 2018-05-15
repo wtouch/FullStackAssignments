@@ -1,0 +1,9 @@
+Create Routes as follows for -- Employee OR Student OR Customer
+	- Get - All data (Array)
+	- Get - Single data with ID
+	- Post - Create New Record
+	- Put - Update Record with ID
+	- Delete - Delete Record with ID
+	
+Request - JSON body only
+Response - JSON body only

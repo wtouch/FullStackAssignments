@@ -1,0 +1,9 @@
+- Create student collection
+- Insert dummy 100 records
+- Do following query to this collection
+	- select all girls data
+	- select all boys data
+	- select first 20 records
+	- select first 10 girls
+	- select first 10 boys alphabetically
+- Take screenshot for all activity and store in this assignment's folder

@@ -1,0 +1,14 @@
+#2 Create a "Mad-libs" game using JavaScript. This assignment is based on the concepts introduced in assignments 1-6.
+
+	1. Create a blank page.
+	2. Using a prompt box, prompt the user to supply his or her name.
+	3. Then, using 5 additional prompt boxes, prompt the user to supply 5 words.
+	4. Save each word in a separate variable.
+	5. Then, using document.write() statements, use the information stored in variables to display a "Mad-libs" type of story, i.e. create a few paragraphs of information in story format.
+	6. Also, prompt the user for a color (i.e. one of the 20 named colors).
+	7. Store this color in a variable.
+	8. In the "mad libs" story, highlight, using the color supplied by the user, each of the words that you previously collected. Do this by surrounding the words with <span> tags and using an inline style.
+	
+Reference:
+	1. Mad-libs - http://www.reftopia.com/encyclopedia/mad%20libs
+	2. Story examples - ./assets/stories.txt

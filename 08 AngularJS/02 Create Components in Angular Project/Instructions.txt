@@ -1,0 +1,13 @@
+Create Angular Components as follows
+	- Add Employee OR Student OR Customer - Form View
+	- Edit Employee OR Student OR Customer - Form View
+	- Employees OR Students OR Customers - Table View
+	- Single View
+
+Create Angular Router
+	- import router module into app.module
+	- Configure router with following routes (give route name as your thinking)
+		- add
+		- view multiple (forTable)
+		- edit with id
+		- single view with id

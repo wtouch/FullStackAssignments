@@ -1,0 +1,10 @@
+#05 Display Browser Information
+	01. Create basic HTML
+	02. Get browser information as follows
+		- Browser name
+		- OS Architecture
+		- Browser version
+		- Window Resolution
+		- Document inner height and width
+		- colorDepth
+		- pixelDepth

@@ -1,0 +1,9 @@
+- Create 'DataService' Provider and import it into app.module
+- Import HttpModule into app.module
+- Import Http provider into 'DataService' provider
+- Create methods in 'DataService' provider
+	- getMultiple(modelName, filterObject, callback(err, data))
+	- getSingle(id, modelName, filterObject, callback(err, data))
+	- postData(modelName, inputObject, callback(err, data))
+	- updateData(id, modelName, inputObject, callback(err, data))
+	- deleteData(queryObject/id, modelName, callback(err, data))

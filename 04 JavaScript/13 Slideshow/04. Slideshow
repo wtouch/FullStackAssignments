@@ -1,0 +1,9 @@
+#04 Build a simple slide show in JavaScript. This assignment builds on the concepts of all of the previous assignments and introduces the concepts of decision making with conditional statements.
+
+	1. Create a basic page in html that displays a single image.
+	2. In a set of <script> tags in the <head> section of your page, create a function to store your JavaScript program.
+	3. Create a variable outside of the function, initialized to zero.
+	4. Each time the user clicks on the image, call the function.
+	5. Each time the function is called, increment the variable by 1.
+	6. Each time the function is called, and after the variable is incremented, use conditional statements to check the value of variable and then change the image to a unique image when the variable is a certain value.
+	7. Do this until 4 additional unique images have been displayed to the user.
