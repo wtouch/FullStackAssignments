@@ -1,0 +1,9 @@
+- Input 
+	- Principle
+	- Period (Duration)
+	- Rate of Int
+	- No of times int calculate
+- Output - (Obj)
+	- Interest
+	- Amount
+	- interest by times (t1 - 20, t2 - 20.12) - Optional

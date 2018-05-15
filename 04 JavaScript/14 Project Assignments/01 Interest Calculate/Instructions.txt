@@ -1,0 +1,8 @@
+- Input 
+	- Principle - rs
+	- Period (Duration) - Days
+	- Rate of Int - float
+	- RoI on - day, month, year, quarter, half-year, week
+- Output - (Obj)
+	- Interest
+	- Amount

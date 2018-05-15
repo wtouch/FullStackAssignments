@@ -1,0 +1,20 @@
+- Create JSON of array
+	- Particular
+	- Quantity
+	- Price
+	- Amount - will calculate runtime
+- Calculate Amount as follows
+	- Quantity X Price
+- Calculate Total Amount of all particulars
+
+
+Input
+	- JSON Array
+	- Col 1 
+	- Col 2
+	- Operation - Addition, Sub, Mult, Div
+	- AnsCol
+
+Output
+	- New Array having amount of each elament
+	- Total of AnsCol

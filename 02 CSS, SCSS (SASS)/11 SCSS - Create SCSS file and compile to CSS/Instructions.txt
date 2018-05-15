@@ -1,0 +1,27 @@
+Create style.scss and add it following points
+
+1. Variables 
+	a. Color Variables
+	b. Spacing Variables - margin, padding, position etc
+	c. Sizing Variables - width, height etc
+2. Mixins
+	a. write mixins for cross browser - 
+		eg. @mixin border-radius($value) {
+			  -webkit-border-radius: #{$value};
+			   -khtml-border-radius: #{$value};
+				 -moz-border-radius: #{$value};
+				  -ms-border-radius: #{$value};
+				   -o-border-radius: #{$value};
+					  border-radius: #{$value};
+			}
+	b. write mixins for reuse like shadow, border, background etc
+	c. write mixins for background-gradient
+	d. write mixins for animation
+	e. write mixins for hover (transition) effects
+3. SCSS modules (comoponents) in seperate files - like _navbar, _form etc
+	a. navbar
+	b. dropdown-menu
+	c. form and its chile components
+	d. button, button group etc
+	e. pagination
+	f. popup (Modal)
